@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">IntentsProj</string>
+    <string name="Number1_label">Number 1</string>
+    <string name="number_2">Number 2</string>
+    <string name="ok_btn_label">OK</string>
+    <string name="multy_btn_label">*</string>
+    <string name="add_btn_label">+</string>
+    <string name="substract_btn_label">-</string>
+    <string name="division_btn_label">/</string>
+    <string name="number2_hint">0</string>
+    <string name="number1_hint">0</string>
+</resources>
